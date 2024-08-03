@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DavVicveg
 - 👀 I’m interested in C#, Swift and OS's Internals
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on C# Projects
+- 🌱 I’m currently learning C# and Swift
+- 💞️ I’m looking to collaborate on C# and Swift Projects
 - 📫 How to reach me ...
 
 <!---
